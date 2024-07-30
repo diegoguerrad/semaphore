@@ -7,5 +7,3 @@ description: Get started in 5 minutes
 WIP
 
 this is the quick guided tour
-
-this is my first git commit
